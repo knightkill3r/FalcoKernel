@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/pl2303.ko := arm-eabi-ld -EL -r  -T /home/pasquale/s2/kernel/scripts/module-common.lds --build-id  -o drivers/usb/serial/pl2303.ko drivers/usb/serial/pl2303.o drivers/usb/serial/pl2303.mod.o

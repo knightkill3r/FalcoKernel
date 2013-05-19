@@ -1,0 +1,7 @@
+kernel/drivers/usb/class/usblp.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/gadget/s3c_udc_otg.ko
+kernel/drivers/usb/host/ehci-hcd.ko
+kernel/drivers/usb/host/shost/shost_hcd.ko
+kernel/drivers/usb/mon/usbmon.ko
+kernel/drivers/usb/storage/usb-storage.ko
